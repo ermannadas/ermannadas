@@ -4,7 +4,7 @@ I am currently pursuing a Bachelor of Science degree in electrical and electroni
 
 Make sure to check my website [ermannadas.com](https://ermannadas.com/), [Google Scholar](https://scholar.google.com/citations?user=VGrod78AAAAJ), [ORCID](https://orcid.org/0009-0009-0827-2610), [LinkedIn](https://www.linkedin.com/in/ermannadas/), and [ResearchGate](https://www.researchgate.net/profile/Huesnue-Erman-Nadas)
 
-### Selected projects
+### Selected coursework
 
 | Project | What it is |
 | --- | --- |
