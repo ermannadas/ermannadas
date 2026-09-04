@@ -1,6 +1,6 @@
 ### Welcome to the GitHub profile for Hüsnü Erman Nadas
 
-I am currently pursuing a Bachelor of Science degree in electrical and electronics engineering. As an undergraduate research fellow, my focus is on quantum computers and technologies, superconducting quantum electronics, and superconducting RF integrated circuits for quantum applications.
+I am a researcher and engineer in superconducting quantum hardware, working across device design, control and readout electronics, cryogenic experiment design and measurement, and system integration.
 
 Make sure to check my website [ermannadas.com](https://ermannadas.com/), [Google Scholar](https://scholar.google.com/citations?user=VGrod78AAAAJ), [ORCID](https://orcid.org/0009-0009-0827-2610), [LinkedIn](https://www.linkedin.com/in/ermannadas/), and [ResearchGate](https://www.researchgate.net/profile/Huesnue-Erman-Nadas)
 
